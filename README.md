@@ -36,6 +36,9 @@ F09 | Rezervacija knjige (član) | Ukoliko neka knjiga trenutno nije dostupna (n
 F10 | Pisanje i pregled recenzija (član, zaposlenik) | Svaki član knjižnice će nakon vraćanja knjige moći ostaviti recenziju na tu knjigu. Pri fizičkom vraćanju knjige, zaposlenik to unosi u sustav i tom članu će biti moguće ostavljanje recenzije. Recenzija se sastoji od ocjene (1-5) i opcionalnog komentara. Zaposlenici i ostali članovi knjižnice vide sve recenzije na odabrane knjige. | Domagoj Hegedušić
 F11 | Statistika poslovanja (zaposlenik) | Zaposlenik ima mogućnost pregleda cjelokupne statistike poslovanja. Statistika uključuje pregled najpopularnijih knjiga što znači da zaposlenik može vidjeti koliko je puta knjiga posuđena, koliko ukupno korisnika knjižnica ima te koji žanr ima posuđenih knjiga. | Domagoj Hegedušić
 F12 | Čitanje digitaliziranih knjiga | Knjižnica omogućuje članovima knjižnice čitanje određenih digitalnih knjiga unutar aplikacije. Digitalne knjige pohranjene su u PDF formatu te se otvaraju unutar prozora aplikacije. | Domagoj Hegedušić
+F13 | Top 10 najčitanijih knjiga | Knjižnica omogućuje uvid u top 10 knjiga po broju posudbi kako bi članovi lakše mogli naći inspiracije i ideje za nova knjige koje bi mogli pročitati. | Domagoj Hegedušić
+
+
 
 ## Tehnologije i oprema
 
